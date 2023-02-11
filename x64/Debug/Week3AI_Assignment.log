@@ -1,0 +1,5 @@
+﻿  Week3AI_Assignment.cpp
+C:\Users\Benjamin\source\repos\Week3AI_Assignment\Week3AI_Assignment.cpp(48,57): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Benjamin\source\repos\Week3AI_Assignment\Week3AI_Assignment.cpp(54,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Benjamin\source\repos\Week3AI_Assignment\Week3AI_Assignment.cpp(60,57): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Week3AI_Assignment.vcxproj -> C:\Users\Benjamin\source\repos\Week3AI_Assignment\x64\Debug\Week3AI_Assignment.exe
